@@ -2,7 +2,7 @@
     package="com.example.pemesanan_hotel">
    <application
         android:label="pemesanan_hotel"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/logo_hotel">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
